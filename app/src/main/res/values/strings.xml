@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Midi Host</string>
+    <string name="usage">‣ Enable OTG mode\n‣ Plug in a MIDI keyboard\n‣ Turn up the volume\n‣ Play &amp; enjoy</string>
+</resources>
